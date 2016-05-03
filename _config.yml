@@ -1,0 +1,27 @@
+# Site settings
+title: Merrick Sapsford
+name: Merrick Sapsford
+description: "Mobile Software Engineer"
+url: "www.sapsford.tech"
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  MerrickSapsford
+twitter_username: MerrickSapsford
+linkedin_username: merrick-sapsford-3218b952
+instagram_username:  merrick_sapsford
+cv_url: "docs/resume.pdf"
+email: merrick@sapsford.tech
+
+
+avatar: yes
+avatar_img_path: "https://avatars0.githubusercontent.com/u/3515448"
+
+
+front_img: yes
+front_img_path: "imgs/background_blur.jpg"
+
+# Build settings
+markdown: kramdown
+permalink: pretty

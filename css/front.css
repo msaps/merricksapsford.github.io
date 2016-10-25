@@ -1,7 +1,7 @@
 body {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     background-color: rgba(0, 0, 0, 0.9);
-    position: absolute; 
+    position: absolute;
     top: 0;
     bottom: 0;
     right: 0;
@@ -34,10 +34,12 @@ h1 {
 }
 h2 {
     color: white;
+    font-weight: lighter;
     padding-bottom: 20px;
 }
 h3 {
     color: white;
+    font-weight: lighter;
     padding-bottom: 20px;
 }
 .content {

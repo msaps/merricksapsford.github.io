@@ -30,7 +30,8 @@ h1 {
     letter-spacing: 0.05em;
     font-size: 3em;
     font-family: Avenir Next;
-    margin: -4px 0;
+    padding-top: 20px;
+    margin: -20px 0;
 }
 h2 {
     color: white;

@@ -1,7 +1,7 @@
 # Site settings
 title: Merrick Sapsford
 name: Merrick Sapsford
-description: "Mobile Software Engineer"
+description: "Engineer"
 url: "www.sapsford.tech"
 
 github_username:  msaps
@@ -15,7 +15,7 @@ avatar: yes
 avatar_img_path: "https://avatars0.githubusercontent.com/u/3515448"
 
 front_img: yes
-front_img_path: "imgs/background_blur.jpg"
+front_img_path: "imgs/background.jpg"
 
 # Build settings
 markdown: kramdown

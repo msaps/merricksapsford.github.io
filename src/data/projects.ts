@@ -16,8 +16,8 @@ export const projects: Project[] = [
     url: "https://loungebird.app",
     tags: ["iOS", "macOS", "Backend"],
     size: "large",
-    image: "/images/loungebird-light.png",
-    imageDark: "/images/loungebird-dark.png",
+    image: "/images/loungebird-light.webp",
+    imageDark: "/images/loungebird-dark.webp",
     gradient: "from-sky-200 to-blue-200 dark:from-blue-800 dark:to-sky-900",
   },
   {
